@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/stevegaeke/pipelines-java/_apis/build/status/mooky.pipelines-java?branchName=master)](https://dev.azure.com/stevegaeke/pipelines-java/_build/latest?definitionId=1&branchName=master)
+![Pipeline Status](https://dev.azure.com/stevegaeke/pipelines-java/_apis/build/status/mooky.pipelines-java?branchName=master)
 
 # Contributing
 
